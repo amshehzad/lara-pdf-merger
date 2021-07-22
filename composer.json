@@ -18,12 +18,17 @@
             "name": "Marouan Sami",
             "email": "sami.marwen.isetcom@gmail.com",
             "homepage": "https://github.com/MarwenSami"
+        },
+        {
+            "name": "Scott He",
+            "email": "scottrivershe@gmail.com",
+            "homepage": "https://github.com/scottxhe"
         }
     ],
     "require": {
         "php" : ">=5.4"
     },
-    "homepage" : "https://github.com/MarwenSami/lara-pdf-merger",
+    "homepage" : "https://github.com/scottxhe/lara-pdf-merger",
     "autoload": {
         "psr-0": {
             "LynX39\\LaraPdfMerger": "src/"
