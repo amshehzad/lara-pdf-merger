@@ -25,9 +25,15 @@
             "homepage": "https://github.com/scottxhe"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/amshehzad/monolog"
+        }
+    ],
     "require": {
-        "php" : ">=5.4"
-    },
+        "daltcore/lara-pdf-merger": "dev-php8"
+    }
     "homepage" : "https://github.com/scottxhe/lara-pdf-merger",
     "autoload": {
         "psr-0": {
